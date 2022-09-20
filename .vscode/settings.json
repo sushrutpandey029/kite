@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "ARGB",
+        "Cupertino",
+        "textstyle"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
